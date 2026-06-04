@@ -1,33 +1,31 @@
-# WhatsApp Automation Project
+# WhatsApp Automation Project 🚀
 
-## Description
-This Python project automates WhatsApp message scheduling using Python.
+## 📌 About
+This project sends automated WhatsApp messages using Python.
 
-## Features
-- Schedule WhatsApp messages
-- Custom phone number input
-- Custom message input
-- Uses PyWhatKit
+## ⚙️ Features
+- Send WhatsApp messages automatically
+- Schedule messages
+- Simple input-based system
 
-## Technologies Used
+## 🛠️ Tech Stack
 - Python
 - PyWhatKit
+- PyAutoGUI
 
-## How to Run
-
-Install dependencies:
-
+## 📦 Installation
 ```bash
-pip install pywhatkit
+pip install pywhatkit pyautogui
 ```
 
-Run:
-
+## ▶️ How to Run
 ```bash
 python Whatapp.py
 ```
 
-## Author
+## 👩‍💻 Author
+**Priya Dharshini**  
+GitHub: [priyadhashcodes](https://github.com/priyadhashcodes)
 
-Priya Dharshini
-GitHub: https://github.com/priyadhashcodes
+## 💡 Purpose
+This project is part of my Python freelance portfolio.
