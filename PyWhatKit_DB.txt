@@ -1,0 +1,20 @@
+Date: 4/6/2026
+Time: 16:3
+Phone Number:  +6590285618
+Message: Hello, this is an automated message from Python.
+--------------------
+Date: 4/6/2026
+Time: 16:22
+Phone Number:  +65 90285618
+Message: hi,hello
+--------------------
+Date: 4/6/2026
+Time: 16:25
+Phone Number: +6590285618
+Message: hi
+--------------------
+Date: 4/6/2026
+Time: 16:28
+Phone Number: +6590285618
+Message: “If I had a flower for every time I thought of you…I could walk through my garden forever.” —
+--------------------
