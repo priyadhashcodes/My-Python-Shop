@@ -25,7 +25,7 @@ python Whatapp.py
 
 ## Screenshot
 
-![WhatsApp Automation](screenshots/demo.png
+![WhatsApp Automation](screenshots/demo.png)
 
 ## 👩‍💻 Author
 **Priya Dharshini**  
