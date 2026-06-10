@@ -18,12 +18,11 @@ A professional PDF invoice generator built with Python and ReportLab. Generate c
 ### Prerequisites
 
 - Python 3.7+
-- [ReportLab](https://www.reportlab.com/)
+
 
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/invoice-generator.git
 cd invoice-generator
 pip install reportlab
 ```
