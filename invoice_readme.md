@@ -1,59 +1,44 @@
-# 🧾 Invoice Generator
+# 🧾 Invoice Generator Project 🚀
 
-A professional PDF invoice generator built with Python and ReportLab. Generate clean, GST-compliant invoices in seconds.
+## 📌 About
 
----
+This project generates professional PDF invoices using Python and ReportLab. It automates invoice creation with GST calculation and a clean business-ready format.
 
-## ✨ Features
+## ⚙️ Features
 
-- **PDF generation** — outputs polished, print-ready invoices
-- **GST calculation** — automatic tax computation built in
-- **Multi-line items** — support for multiple products per invoice
-- **Professional design** — clean layout suitable for client-facing use
+* Generate PDF invoices automatically
+* GST calculation included
+* Professional invoice layout
+* Multiple item support
+* Ready for printing and sharing
 
----
+## 🛠️ Tech Stack
 
-## 🚀 Getting Started
+* Python
+* ReportLab
 
-### Prerequisites
-
-- Python 3.7+
-
-
-### Installation
+## 📦 Installation
 
 ```bash
-cd invoice-generator
 pip install reportlab
 ```
 
-### Usage
+## ▶️ How to Run
 
 ```bash
 python invoice_generator.py
 ```
 
-The generated invoice will be saved as a `.pdf` file in the project directory.
+## 📸 Screenshot
 
----
+![Invoice Generator](screenshots/Invoice.png)
 
-## 📄 Output
+## 👩‍💻 Author
 
-Each invoice includes:
+Priya Dharshini
 
-- Business and client details
-- Itemised product/service list
-- GST breakdown
-- Total amount due
+GitHub: priyadhashcodes
 
----
+## 💡 Purpose
 
-## 🛠 Tech Stack
-
-- **Python** — core logic
-- **ReportLab** — PDF rendering
-
----
-
-## 📝 License
-
+This project is part of my Python freelance portfolio. It demonstrates PDF generation, invoice automation, and practical business application development using Python.
