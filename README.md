@@ -23,9 +23,17 @@ pip install pywhatkit pyautogui
 python Whatapp.py
 ```
 
+## Screenshot
+
+![WhatsApp Automation](screenshots/demo.png)
+
 ## 👩‍💻 Author
 **Priya Dharshini**  
 GitHub: [priyadhashcodes](https://github.com/priyadhashcodes)
 
 ## 💡 Purpose
 This project is part of my Python freelance portfolio.
+
+
+
+
