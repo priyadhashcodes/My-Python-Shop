@@ -31,7 +31,7 @@ python invoice_generator.py
 
 ## 📸 Screenshot
 
-![Invoice Generator](screenshots/Invoice.png)
+![Invoice Generator](Invoice.png)
 
 ## 👩‍💻 Author
 
